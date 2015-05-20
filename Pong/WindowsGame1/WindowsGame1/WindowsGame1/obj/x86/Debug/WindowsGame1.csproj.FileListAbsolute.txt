@@ -1,0 +1,75 @@
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Ball.xnb
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Middle.xnb
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Paddle.xnb
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\StartScreen.xnb
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\BallWallCollision.xnb
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\PaddleBallCollision.xnb
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Ball.png
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\BallWallCollision.wav
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Middle.png
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Paddle.png
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\PaddleBallCollision.wav
+C:\Users\Emanuel.Umbelino\Downloads\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\StartScreen.png
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Ball.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Middle.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Paddle.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\StartScreen.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\BallWallCollision.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\PaddleBallCollision.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Ball.png
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\BallWallCollision.wav
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Middle.png
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Paddle.png
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\PaddleBallCollision.wav
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\StartScreen.png
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\talita.santos\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\font.xnb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Ball.xnb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Middle.xnb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Paddle.xnb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\StartScreen.xnb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\BallWallCollision.xnb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\PaddleBallCollision.xnb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\font.xnb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Ball.png
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\BallWallCollision.wav
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Middle.png
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Paddle.png
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\PaddleBallCollision.wav
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\StartScreen.png
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+F:\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Ball.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Middle.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Paddle.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\StartScreen.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\BallWallCollision.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\PaddleBallCollision.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\font.xnb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Ball.png
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\BallWallCollision.wav
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Middle.png
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\Paddle.png
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\PaddleBallCollision.wav
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Content\StartScreen.png
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\talita.santos\Desktop\WindowsGame1 newVersão\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
